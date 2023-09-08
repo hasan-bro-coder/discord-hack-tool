@@ -1,0 +1,8 @@
+colorama
+tqdm
+requests
+base64
+re
+sqlite
+pycryptodomex
+pywin32
